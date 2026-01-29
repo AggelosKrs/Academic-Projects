@@ -1,4 +1,3 @@
-# Academic-Projects
 # Academic Projects 🎓
 
 This repository contains a collection of projects and assignments developed during my studies in **Computer Science at the Hellenic Open University (E.A.P.)** and various specialized seminars.
