@@ -43,5 +43,5 @@ To run these projects, you will need the respective environments installed (e.g.
 
 ### 📫 Contact
 **Aggelos Karras** - GitHub: [@AggelosKrs](https://github.com/AggelosKrs)  
-- LinkedIn: [Your-LinkedIn-Link]
+- LinkedIn: [www.linkedin.com/in/aggelos-karras-945420396]
 - Email: akarras797@gmail.com
